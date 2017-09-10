@@ -9,6 +9,8 @@ using EPiServer.Logging;
 
 namespace AlloyTraining.Business.Channels
 {
+
+
     public class PDFChannelHelper
     {
         public static void GeneratePDF(string Html, string filename)
