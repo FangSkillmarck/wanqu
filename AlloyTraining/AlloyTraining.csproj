@@ -309,6 +309,7 @@
     <Compile Include="Business\Initialization\FavoritesInitializationModule.cs" />
     <Compile Include="Business\Initialization\FilterConfig.cs" />
     <Compile Include="Business\Initialization\NorthwindToCategoryPartialRouterRegistration.cs" />
+    <Compile Include="Business\Initialization\SetupAdminAndUsersPage.cs" />
     <Compile Include="Business\PageContextActionFilter.cs" />
     <Compile Include="Business\PageTypeExtensions.cs" />
     <Compile Include="Business\PageViewContextFactory.cs" />
